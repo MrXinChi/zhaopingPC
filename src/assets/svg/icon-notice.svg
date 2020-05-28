@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="30px" viewBox="0 0 32 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>feeds-fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="内容列表页" transform="translate(-162.000000, -275.000000)" fill="#3864CE" fill-rule="nonzero">
+            <g id="feeds-fill" transform="translate(162.000000, 275.000000)">
+                <path d="M29.3541085,6 C30.815394,6 32,7.23977916 32,8.76912426 L32,27.2299527 C32,28.7592978 30.815394,29.9990769 29.3541085,29.9990769 L26,30 C26.4212774,29.2383876 26.662015,28.3822007 26.7020432,27.5031729 L26.708217,27.2299527 L26.708217,6 L29.3541085,6 Z M21.2307692,1.2490009e-15 C22.7601732,1.2490009e-15 24,1.25919914 24,2.8125 L24,27.1875 C24,28.7408009 22.7601732,30 21.2307692,30 L2.76923077,30 C1.23982685,30 0,28.7408009 0,27.1875 L0,2.8125 C0,1.25919914 1.23982685,0 2.76923077,0 L21.2307692,1.2490009e-15 Z M13,14 L5,14 L5,17 L13,17 L13,14 Z M19,8 L6,8 L6,11 L19,11 L19,8 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

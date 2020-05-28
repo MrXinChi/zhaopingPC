@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="47px" viewBox="0 0 47 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>packing-labeling-fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M31,9.71212121 L30.9990313,20.5010606 L25.3957813,15.067606 L20.5462187,19.7711515 L22.0594063,21.2384849 L15.5629688,21.2384849 L15.5629688,27.889394 L22.0196875,27.889394 L20.5471875,29.3172728 L21.638,30.3787879 L2.90625,30.3787879 C1.30117245,30.3787879 0,29.1170449 0,27.5606061 L0,9.71212121 L31,9.71212121 Z M13.5625,12.530303 L5.81250001,12.530303 L5.81250001,15.3484848 L13.5625,15.3484848 L13.5625,12.530303 Z M25.5575625,0.318181818 C26.6581931,0.318218083 27.66437,0.921158289 28.1567188,1.87569694 L30.6929063,6.79342422 L30.7394063,6.89393939 L0.370062485,6.89393939 L2.8539375,1.91045455 C3.33894782,0.936927682 4.35556498,0.31828683 5.47053124,0.318181818 L25.5575625,0.318181818 Z M17,23.1403874 L26.2803374,23.1394524 L22.8131084,19.8090909 L24.9331603,17.7727273 L32,24.5606061 L24.9331603,31.3484848 L22.8131084,29.3121212 L26.2404283,26.0191585 L17,26.0191585 L17,23.1403874 Z" id="path-1"></path>
+        <filter x="-37.5%" y="-38.7%" width="175.0%" height="177.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.322389482   0 0 0 0 0.524554639   0 0 0 0 1  0 0 0 0.298677885 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心-就业管理" transform="translate(-846.000000, -289.000000)" fill-rule="nonzero">
+            <g id="packing-labeling-fill" transform="translate(854.000000, 297.000000)">
+                <g id="合并形状">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#5286FF" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="33px" viewBox="0 0 16 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>合并形状</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3A71FB" offset="0%"></stop>
+            <stop stop-color="#4D39CB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.158319382">
+        <g id="个人中心-简历预览" transform="translate(-280.000000, -423.000000)" fill="url(#linearGradient-1)">
+            <g id="分组" transform="translate(280.000000, 140.000000)">
+                <path d="M0,315.743337 L0,283.743337 C8.836556,283.743337 16,290.906781 16,299.743337 C16,308.579893 8.836556,315.743337 0,315.743337 Z" id="合并形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,60 @@
+// 字
+@mixin word($size, $color, $weight:400, $textAligin:left) {
+    font-size: $size + px;
+    font-weight: $weight;
+    color: $color;
+    text-align: $textAligin;
+}
+
+// icon
+@mixin icon($size, $img) {
+    display: block;
+    width: $size + px;
+    height: $size + px;
+    background-image: url($img);
+    background-size: 100% 100%;
+}
+
+//$line:超出显示几行省略号
+//$substract:预留区域百分比
+@mixin text-overflow($line:1, $width:100%) {
+    overflow: hidden;
+
+    @if $line==1 {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        width: $width;
+    }
+
+    @else {
+        display: -webkit-box;
+        -webkit-line-clamp: $line;
+        -webkit-box-orient: vertical;
+    }
+}
+
+
+@mixin flex($direction:row, $justify:flex-start, $align:flex-start, $flex:initial, $flex-wrap: null) {
+    display: -webkit-flex;
+    display: flex;
+
+    @if ($direction !=null) {
+        flex-direction: $direction;
+    }
+
+    @if ($justify !=null) {
+        justify-content: $justify;
+    }
+
+    @if ($align !=null) {
+        align-items: $align;
+    }
+
+    @if ($flex !=null) {
+        flex: $flex;
+    }
+
+    @if ($flex-wrap !=null) {
+        flex-wrap: $flex-wrap;
+    }
+}

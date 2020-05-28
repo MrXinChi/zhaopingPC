@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="12px" viewBox="0 0 10 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>合并形状</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="宣讲会列表" transform="translate(-230.000000, -330.000000)" fill="#376FE0" fill-rule="nonzero">
+            <g id="分组-3" transform="translate(130.000000, 249.000000)">
+                <path d="M100,85.7128492 C100,83.1100156 102.238578,81 105,81 C107.761422,81 110,83.1100156 110,85.7128492 C110,86.8592179 109.563485,87.9432402 108.784623,88.7928134 L105.447354,92.7951017 C105.219545,93.0682994 104.780455,93.0682994 104.552646,92.7951017 L101.215363,88.7928134 C100.436515,87.9432402 100,86.8592179 100,85.7128492 Z M105,88 C106.104569,88 107,87.1045695 107,86 C107,84.8954305 106.104569,84 105,84 C103.895431,84 103,84.8954305 103,86 C103,87.1045695 103.895431,88 105,88 Z" id="合并形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

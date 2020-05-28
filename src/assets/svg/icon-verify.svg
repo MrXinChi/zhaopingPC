@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>inspection-fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.322389482   0 0 0 0 0.524554639   0 0 0 0 1  0 0 0 0.445066652 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心-就业管理" transform="translate(-546.000000, -289.000000)" fill="#5286FF" fill-rule="nonzero">
+            <g id="inspection-fill" filter="url(#filter-1)" transform="translate(554.000000, 297.000000)">
+                <path d="M32,11 L31.999,24.947 L31.996,24.759 C31.8640084,20.9275498 28.6745886,17.9150948 24.841846,18.0017939 C21.0091034,18.088493 17.9591636,21.2420863 18.0005581,25.075586 C18.0419526,28.9090856 21.1592789,31.9960841 24.993,32 L3,32 C1.34314575,32 0,30.6568542 0,29 L0,11 L32,11 L32,11 Z M24.8,20 C26.5185539,19.9996636 28.1061579,20.9181242 28.962532,22.4081078 C29.8189061,23.8980913 29.8133636,25.7322194 28.948,27.217 L31.828,30.097 L30.131,31.794 L27.259,28.923 C25.5187851,29.9603834 23.3146112,29.7934575 21.7504733,28.50583 C20.1863354,27.2182024 19.5990619,25.0871566 20.2827979,23.18006 C20.9665338,21.2729635 22.7740405,20.0004989 24.8,20 L24.8,20 Z M24.8,23 C24.1569219,23 23.5626932,23.343078 23.2411542,23.9 C22.9196151,24.4569219 22.9196151,25.1430781 23.2411542,25.7 C23.5626932,26.256922 24.1569219,26.6 24.8,26.6 C25.7941125,26.6 26.6,25.7941125 26.6,24.8 C26.6,23.8058874 25.7941125,23 24.8,23 L24.8,23 Z M14,13 L6.00000001,13 L6.00000001,16 L14,16 L14,13 Z M26.382,1.33226763e-15 C27.5181348,3.86047435e-05 28.556769,0.641878179 29.065,1.65799997 L31.683,6.89299998 C31.8560343,7.23870802 31.9606189,7.61460162 31.991,7.99999998 L0.0379999688,7.99999998 C0.0842637906,7.71354152 0.171842616,7.43531035 0.297999985,7.17399999 L2.946,1.69399997 C3.4469409,0.658054207 4.49629351,-7.36334305e-05 5.64699999,0 L26.382,1.33226763e-15 Z" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>
